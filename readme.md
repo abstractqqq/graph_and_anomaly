@@ -2,8 +2,6 @@
 
 https://fetch-hiring.s3.us-east-1.amazonaws.com/data-scientist/deep-learning/deep_learning_take_home.html
 
-# I omitted many details regarding the following bullet points in the notebook. To be improved.
-
 Your solution may include any or all of the following:
 
 1. Profile the node attributes and discuss what embeddings they suggest
